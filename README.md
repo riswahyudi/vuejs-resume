@@ -22,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Deploy on Surge.sh
+https://cli.vuejs.org/guide/deployment.html#surge
